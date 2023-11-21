@@ -22,10 +22,6 @@ import AdminHomePage from './Admin/Pages/AdminHomePage';
 import SingleUserPage from './Admin/Pages/SingleUserPage';
 import SingleProduct from './Admin/Pages/SingleProduct';
 
-
-
-
-
 function App() {
   return (
     <>
